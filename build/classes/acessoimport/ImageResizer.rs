@@ -1,0 +1,2 @@
+acessoimport.ImageOutputConfig
+acessoimport.ImageResizer
